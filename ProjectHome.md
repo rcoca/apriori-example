@@ -1,0 +1,1 @@
+An example implementation of apriori algorithm. It is far from optimal and it still needs work.
